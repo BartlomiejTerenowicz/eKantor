@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\bin\Debug\netcoreapp2.1\ekantor.Domain.deps.json
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\bin\Debug\netcoreapp2.1\ekantor.Domain.dll
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\bin\Debug\netcoreapp2.1\ekantor.Domain.pdb
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\obj\Debug\netcoreapp2.1\ekantor.Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\obj\Debug\netcoreapp2.1\ekantor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\obj\Debug\netcoreapp2.1\ekantor.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\obj\Debug\netcoreapp2.1\ekantor.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\obj\Debug\netcoreapp2.1\ekantor.Domain.dll
+C:\Users\Admin\Desktop\Dokumenty\NET\eKantor\ekantor.Domain\obj\Debug\netcoreapp2.1\ekantor.Domain.pdb
